@@ -5,10 +5,10 @@
 
 <p align="center"> <a href="https://twitter.com/aesmatias" target="blank"><img src="https://img.shields.io/twitter/follow/aesmatias?logo=twitter&style=for-the-badge" alt="aesmatias" /></a> </p>
 
-<h3 align="left">🌱 I’m currently learning **Python**</h3>
+<h3 align="center">🌱 I’m currently learning **Python**</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/aesmatias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aesmatias" height="30" width="40" /></a>
 </p>
 
