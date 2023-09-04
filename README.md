@@ -8,7 +8,9 @@
 
 
 <h3 align="center">Languages and Tools:</h3>
-#💾 Databases
+<div align="center">
+💾 Databases
+<div align="center">
 <div align="center">
 
 
