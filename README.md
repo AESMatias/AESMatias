@@ -22,9 +22,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 </div>
 
-<div align="center">
-📚 Frameworks, Platforms and Libraries
-<div align="center">
+<h3 align="center">📚 Frameworks, Platforms and Libraries</h3>
 
 <div align="center">
 
@@ -40,9 +38,7 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 </div>
 
-<div align="center">
-📋 Languages and more
-<div align="center">
+<h3 align="center">📋 Languages and mores</h3>
 
 <div align="center">
 
@@ -57,9 +53,7 @@
 
 </div>
 
-<div align="center">
-🖥️ ML/DL
-<div align="center">
+<h3 align="center">🖥️ ML/DL</h3>
 
 <div align="center">
 
@@ -73,9 +67,7 @@
 
 </div>
 
-<div align="center">
-🥅 Servers, ORM & Other
-<div align="center">
+<h3 align="center">🥅 Servers, ORM & Other</h3>
 
 <div align="center">
 
