@@ -6,7 +6,7 @@
 
 <h3 align="center">🌱 I’m currently learning **Python**</h3>
 
-<h3 align="center">📋 Languages and mores</h3>
+<h3 align="center">📋 Languages and more</h3>
 
 <div align="center">
 
