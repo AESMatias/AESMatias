@@ -7,10 +7,7 @@
 <h3 align="center">🌱 I’m currently learning **Python**</h3>
 
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-💾 Databases
-<div align="center">
+<h3 align="center">💾 Databases</h3>
   
 <div align="center">
 
