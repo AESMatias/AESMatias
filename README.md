@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋, I'm Matías</h1>
-<h3 align="center">🔭✍🏻♾️</h3>
+<h3 align="center">♾️</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aesmatias&label=Visitors&color=0e75b6&style=flat" alt="aesmatias" /> </p>
 
