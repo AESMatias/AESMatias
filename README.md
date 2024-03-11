@@ -6,7 +6,7 @@
 
 <h3 align="center">🌱 I’m currently interested in learning more about React/Next/TS and Python </h3>
 
-<h3 align="center">📋 Languages and more</h3>
+## 📋 Languages and more
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 </div>
 
-<h3 align="center">📚 Frameworks, Platforms, ORM and Libraries</h3>
+## 📚 Frameworks, Platforms, ORM and Libraries
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
 </div>
 
-<h3 align="center">💾 Databases</h3>
+## 💾 Databases
   
 <div align="center">
 
@@ -62,7 +62,7 @@
 </div>
 
 
-<h3 align="center">🥅 Servers & Other</h3>
+## 🥅 Servers & Other
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 
 </div>
 
-<h3 align="center">🖥️ ML/DL</h3>
+## 🖥️ ML/DL
 
 <div align="center">
 
