@@ -8,7 +8,7 @@
 
 ## 📋 Languages and more
 
-<div align="center">
+<div>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,7 +27,7 @@
 
 ## 📚 Frameworks, Platforms, ORM and Libraries
 
-<div align="center">
+<div>
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -48,7 +48,7 @@
 
 ## 💾 Databases
   
-<div align="center">
+<div>
 
 
 
@@ -64,7 +64,7 @@
 
 ## 🥅 Servers & Other
 
-<div align="center">
+<div>
 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -79,7 +79,7 @@
 
 ## 🖥️ ML/DL
 
-<div align="center">
+<div>
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
