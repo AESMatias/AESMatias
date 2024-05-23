@@ -91,6 +91,16 @@
 
 </div>
 
+## 📅 Studying:
+
+<div>
+
+![Matplotlib](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  
+</div>
+
+
 <div align="center">
 <p align="center"> <a href="https://twitter.com/aesmatias" target="blank"><img src="https://img.shields.io/twitter/follow/aesmatias?logo=twitter&style=for-the-badge" alt="aesmatias" /></a> </p>
 
