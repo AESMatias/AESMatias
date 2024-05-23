@@ -91,12 +91,12 @@
 
 </div>
 
-## 📅 Studying:
+## 📅 Currently studying to attain a certification in
 
 <div>
 
-![Matplotlib](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CISCO](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
 </div>
 
