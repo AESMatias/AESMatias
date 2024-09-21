@@ -3,8 +3,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aesmatias&label=Visitors&color=0e75b6&style=flat" alt="aesmatias" /> </p>
 
 
-<h3 align="center">🌱 I’m mainly focused on learning more about JS/TS and Python. </h3>
-
 ## 📋 Languages and more
 
 <div>
@@ -73,8 +71,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
 </div>
 
 ## 🖥️ ML/DL
