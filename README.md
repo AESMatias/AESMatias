@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aesmatias&label=Visitors&color=0e75b6&style=flat" alt="aesmatias" /> </p>
 
 
-<h3 align="center">🌱 I’m currently mainly focused on learning more about JS/TS and Python. </h3>
+<h3 align="center">🌱 I’m mainly focused on learning more about JS/TS and Python. </h3>
 
 ## 📋 Languages and more
 
