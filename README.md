@@ -1,8 +1,5 @@
 <h1 align="center">Hello there! 👋, I'm Matías</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aesmatias&label=Visitors&color=0e75b6&style=flat" alt="aesmatias" /> </p>
-
-
 ## 📋 Languages and more
 
 <div>
@@ -97,4 +94,7 @@
 
 <div align="center">
 <p align="center"> <a href="https://twitter.com/aesmatias" target="blank"><img src="https://img.shields.io/twitter/follow/aesmatias?logo=twitter&style=for-the-badge" alt="aesmatias" /></a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aesmatias&label=Visitors&color=0e75b6&style=flat" alt="aesmatias" /> </p>
+
 
