@@ -93,7 +93,6 @@
 
 
 <div align="center">
-<p align="center"> <a href="https://twitter.com/aesmatias" target="blank"><img src="https://img.shields.io/twitter/follow/aesmatias?logo=x&style=for-the-badge" alt="aesmatias" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aesmatias&label=Visitors&color=0e75b6&style=flat" alt="aesmatias" /> </p>
 
